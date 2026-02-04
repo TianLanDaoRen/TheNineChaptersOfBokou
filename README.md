@@ -1,9 +1,20 @@
 # 🎴 伯叩九章 | Bokou: The Oracle of Matrix
 
 <p align="center">
-  <b>云笥散人 纂述</b><br>
+  <b>方寸演数，三才定局 | Matrix in Hand, Universe in Balance</b><br>
   一种回归“占”、“筮”本质，人人皆可掌握的现代术数系统。
 </p>
+
+<p align="center">
+  <a href="https://blog.yunsisanren.space/bokou.html">
+    <img src="https://img.shields.io/badge/🔮_在线演武-伯叩智能解卦系统-9e1c26?style=for-the-badge&logoColor=white" alt="伯叩智能解卦系统">
+  </a>
+</p>
+
+<div align="center">
+  <h3>✨ <a href="https://blog.yunsisanren.space/bokou.html">立即开启：伯叩三才盘·智能演数系统</a> ✨</h3>
+  <p><i>无需繁琐心算，即刻叩问天机</i></p>
+</div>
 
 ---
 
